@@ -6,5 +6,5 @@ Board is tested on a quadcopter with max 100A peak current delivered to 4 motors
 
 ![IMG_20200227_002038](https://user-images.githubusercontent.com/61315249/75391909-0a896200-58fc-11ea-86bc-525930e04533.jpg)
 
-![Untitled](https://user-images.githubusercontent.com/61315249/75392139-78ce2480-58fc-11ea-9e8e-befd017ad749.png)
+![pdb board](https://user-images.githubusercontent.com/61315249/82239234-258ad180-9941-11ea-9a5b-f778e1582615.png)
 
